@@ -58,3 +58,4 @@ Sic:
 # More Info:
 * [Document Chesstnut EN](https://www.canva.com/design/DAFl7PPa3j4/1ERQk_2xrK8qOqiZOn403g/view?utm_content=DAFl7PPa3j4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 * [Document Chesstnut IT](https://www.canva.com/design/DAFl7VHCSlo/Z0u2aX2XwaNZ1tZ6A1M9vw/view?utm_content=DAFl7VHCSlo&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+Contact: gabrycass27@gmail.com
