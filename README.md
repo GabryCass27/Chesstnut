@@ -58,6 +58,3 @@ Sic:
 # More Info:
 * [Document Chesstnut EN](https://drive.google.com/file/d/1RiQiFPnPGkRl114Aqhp2c4JSRJvkTsyf/view?usp=drive_link) 
 * [Document Chesstnut IT](https://drive.google.com/file/d/1xD9g91JHJmgsV6PK3dLR8zmzzA50e_Oy/view?usp=drive_link)
-
-Contact:
-cassanitigabriele06@gmail.com
