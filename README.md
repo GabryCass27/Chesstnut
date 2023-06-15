@@ -56,8 +56,8 @@ Sic:
 9. Match analysis (like Chess.com).
 
 # More Info:
-* [Document Chesstnut EN](https://www.canva.com/design/DAFl7PPa3j4/1ERQk_2xrK8qOqiZOn403g/view?utm_content=DAFl7PPa3j4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
-* [Document Chesstnut IT](https://www.canva.com/design/DAFl7VHCSlo/Z0u2aX2XwaNZ1tZ6A1M9vw/view?utm_content=DAFl7VHCSlo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+* [Document Chesstnut EN](https://drive.google.com/file/d/1RiQiFPnPGkRl114Aqhp2c4JSRJvkTsyf/view?usp=drive_link) 
+* [Document Chesstnut IT](https://drive.google.com/file/d/1xD9g91JHJmgsV6PK3dLR8zmzzA50e_Oy/view?usp=drive_link)
 
 Contact:
 cassanitigabriele06@gmail.com
