@@ -1,4 +1,4 @@
-# Chesstnut
+# Chesstnut - Chess Engine
 Chesstnut is a chess engine designed in the Python language.
 The project was born on 24 December 2022 with the aim of bringing more and more people closer to the world of chess.
 
